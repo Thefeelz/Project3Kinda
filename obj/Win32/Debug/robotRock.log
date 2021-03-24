@@ -1,0 +1,9 @@
+﻿  ofApp.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+C:\Users\Brandon Hinz\Documents\UW Stout\Spring 2021\CS 343\of_v0.11.1_vs2017_release\apps\myApps\robotRock\src\ofApp.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brandon Hinz\Documents\UW Stout\Spring 2021\CS 343\of_v0.11.1_vs2017_release\apps\myApps\robotRock\src\ofApp.cpp(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brandon Hinz\Documents\UW Stout\Spring 2021\CS 343\of_v0.11.1_vs2017_release\apps\myApps\robotRock\src\ofApp.cpp(62,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brandon Hinz\Documents\UW Stout\Spring 2021\CS 343\of_v0.11.1_vs2017_release\apps\myApps\robotRock\src\ofApp.cpp(66,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Brandon Hinz\Documents\UW Stout\Spring 2021\CS 343\of_v0.11.1_vs2017_release\apps\myApps\robotRock\src\ofApp.cpp(70,20): warning C4018: '<': signed/unsigned mismatch
+     Creating library bin\robotRock_debug.lib and object bin\robotRock_debug.exp
+  robotRock.vcxproj -> C:\Users\Brandon Hinz\Documents\UW Stout\Spring 2021\CS 343\of_v0.11.1_vs2017_release\apps\myApps\robotRock\bin\robotRock_debug.exe
